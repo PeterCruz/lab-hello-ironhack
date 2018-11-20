@@ -1,7 +1,7 @@
 import React, {Component} from 'react';
-import './Second.css';
+import './Body.css';
 
-class Second extends Component{
+class Body extends Component{
     render(){
         return (
             <div className='second'>
@@ -30,4 +30,4 @@ class Second extends Component{
     }
 }
 
-export default Second;
+export default Body;

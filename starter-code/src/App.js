@@ -1,13 +1,13 @@
 import React, {Component} from 'react';
-import First from './First';
-import Second from './Second';
+import Header from './Header';
+import Body from './Body';
 
 class App extends Component {
     render() {
         return (
             <div>
-                <First/>
-                <Second/>
+                <Header/>
+                <Body/>
             </div>
         );
     }

@@ -1,9 +1,14 @@
+* {
+    padding: 0%;
+    margin: 0%;
+}
+
 .header{
     background-color: #1f2435;
 }
 
 .navbar {
-    margin: 10px;
+    margin: 0%;
     display: flex;
     justify-content: space-between;
 }
